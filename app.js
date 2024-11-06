@@ -1,4 +1,4 @@
-Cimport React, { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { StyleSheet, Text, View, Button, Image, TouchableOpacity } from "react-native";
 import { Picker } from '@react-native-picker/picker';
 import axios from 'axios'; //opcional para chamar a API
